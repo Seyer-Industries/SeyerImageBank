@@ -1,0 +1,8 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore all `.log` files
+*.log
+
+# Ignore a specific file
+secret_config.json
